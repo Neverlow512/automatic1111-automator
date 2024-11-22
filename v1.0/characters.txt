@@ -1,0 +1,4 @@
+Name: Dr. Jonathan Reeves
+Positive prompt: Full-body view of Dr. Jonathan Reeves, a middle-aged male scientist aged 45, wearing a white lab coat over a dark blue dress shirt, black tie, and black slacks. He stands confidently with a stern expression, holding a clipboard and gesturing authoritatively. His polished black leather shoes reflect light on a sterile white-tiled floor. Comic book-style illustration with a dark, gritty, and realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated clothing, bright colors, inconsistent lighting, and whimsical expressions.
+---

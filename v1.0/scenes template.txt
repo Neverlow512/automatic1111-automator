@@ -1,0 +1,40 @@
+Name: Enchanted Forest
+Positive prompt: A mystical forest filled with glowing plants and magical creatures, under a starry night sky.
+Negative prompt: Urban buildings, vehicles, pollution.
+---
+Name: Medieval Battlefield
+Positive prompt: An epic battle scene with knights clashing swords on a vast open field.
+Negative prompt: Modern weapons, tanks, airplanes.
+---
+Name: Dragon's Lair
+Positive prompt: A dark cave filled with gold and treasures, with a giant dragon guarding its hoard.
+Negative prompt: Small creatures, empty cave, modern artifacts.
+---
+Name: Pirate Ship
+Positive prompt: A grand pirate ship sailing on the open sea during sunset, with sails billowing in the wind.
+Negative prompt: Modern boats, cruise ships, submarines.
+---
+Name: Ancient Library
+Positive prompt: An old library filled with ancient books and scrolls, with candles illuminating the room.
+Negative prompt: Computers, electric lights, modern furniture.
+---
+Name: Castle Siege
+Positive prompt: A medieval castle under siege, with catapults and archers attacking the fortress walls.
+Negative prompt: Guns, missiles, helicopters.
+---
+Name: Desert Oasis
+Positive prompt: A lush oasis in the middle of a vast desert, with palm trees and a clear water pond.
+Negative prompt: Snow, urban structures, cold weather.
+---
+Name: Underwater City
+Positive prompt: An ancient city submerged underwater, with sea creatures swimming among the ruins.
+Negative prompt: Space elements, dry land, flying creatures.
+---
+Name: Mountain Summit
+Positive prompt: A breathtaking view from the top of a snowy mountain, overlooking valleys and clouds.
+Negative prompt: Beaches, deserts, urban landscapes.
+---
+Name: Royal Throne Room
+Positive prompt: A magnificent throne room adorned with gold and red carpets, with a grand throne at the end.
+Negative prompt: Empty room, modern decor, simple furniture.
+---

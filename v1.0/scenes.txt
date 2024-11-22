@@ -1,0 +1,4 @@
+Name: Scene_1
+Positive prompt: Dr. Jonathan Reeves stands confidently at the front of a sterile laboratory room. He faces forward, holding a clipboard in one hand and gesturing with the other. He wears a white lab coat over a dark blue dress shirt, a black tie, and black slacks. His polished black leather shoes reflect bright light from overhead fluorescent lamps. The room has white tiled floors and walls, with scientific equipment on tables behind him. The lighting is bright and even. Comic book-style illustration with a dark, gritty, realistic vibe.
+Negative prompt: Cartoonish features, supernatural elements, exaggerated clothing, bright colors, inconsistent lighting, whimsical expressions, text.
+---
